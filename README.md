@@ -19,9 +19,14 @@ We introduce CLEVER, a dataset of European Portuguese news articles annotated fo
 
 ```
 ---
+## Corpus Statistics
 
-
-Corpus Statistics
+| Property | Description |
+|-----------|--------------|
+| **Total Documents** | 1,308 |
+| **Average Length** | 542.8 words per document |
+| **Total Claims** | 463 |
+| **Total Non-Claims** | 4,393 |
 
 Data Format
 
