@@ -23,12 +23,33 @@ We introduce CLEVER, a dataset of European Portuguese news articles annotated fo
 
 | Property | Description |
 |-----------|--------------|
-| **Total Documents** | 1,308 |
-| **Average Length** | 542.8 words per document |
-| **Total Claims** | 463 |
-| **Total Non-Claims** | 4,393 |
+| **Total Documents** | 228 |
+| **Average Length** | 483.4 words per document |
+| **Total Claims** | 115 |
+| **Total Non-Claims** | 1,072 |
 
-Data Format
+---
+
+## Data Format
+
+
+The **ClaimPT** dataset is provided in **JSONL** format, where each line corresponds to an annotated span.  
+
+| Field | Description |
+|--------|-------------|
+| `document` | News article filename |
+| `publication_time` | Date of the news publication |
+| `claim` | Boolean indicating whether the annotation is a claim (`true`) or non-claim (`false`) |
+| `begin_character` | Begin character offset of the annotated text span |
+| `end_character` | End character offset of the annotated text span |
+| `text_segment` | Text segment corresponding to the annotated span |
+| `claim_topic` | Topic of the news article (e.g., politics, environment, health) |
+| `claim_span` | Object containing `text`, `begin`, and `end` positions of the claim span |
+| `claim_object` | Text and character offsets of the claim’s object  |
+| `claimer` | Text and offsets of the entity making the claim |
+| `Time` | Temporal expression associated with the claim |
+
+---
 
 Example (JSON excerpt)
 
