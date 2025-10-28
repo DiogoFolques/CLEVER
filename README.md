@@ -51,7 +51,37 @@ The **ClaimPT** dataset is provided in **JSONL** format, where each line corresp
 
 ---
 
-Example (JSON excerpt)
+## Example (JSON excerpt)
+
+
+```json
+[
+  {
+    "document": "input_part008.txt",
+    "publication_time": "04 dez 2023",
+    "claim": true,
+    "begin_character": 501,
+    "end_character": 685,
+    "text_segment": "foi convidado para aderir não pelo lado monárquico, no qual, aliás, não insistiam muito, mas por se empenhar, acima de tudo, na defesa do ambiente e na preservação da qualidade de vida",
+    "claim_topic": "politics",
+    "claim_span": {
+      "text": "foi convidado para aderir não pelo lado monárquico, no qual, aliás, não insistiam muito, mas por se empenhar, acima de tudo, na defesa do ambiente e na preservação da qualidade de vida",
+      "begin": 501,
+      "end": 685
+    },
+    "claim_object": {
+      "text": "por se empenhar, acima de tudo, na defesa do ambiente",
+      "begin": 594,
+      "end": 647
+    },
+    "claimer": {
+      "text": "Pinto Balsemão",
+      "begin": 438,
+      "end": 452
+    },
+    "Time": ""
+  }
+]
 
 Annotation Guidelines
 
