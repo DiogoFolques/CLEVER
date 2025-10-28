@@ -13,9 +13,7 @@ We introduce CLEVER, a dataset of European Portuguese news articles annotated fo
 │ ├── annotations.pretty.json
 │ ├── news_articles/
 │ │ └── *.txt
-│
 ├── Annotation_Guidelines.pdf
-│
 ├── LICENSE
 └── README.md
 
