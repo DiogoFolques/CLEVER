@@ -83,7 +83,24 @@ The **ClaimPT** dataset is provided in **JSONL** format, where each line corresp
   }
 ]
 
-Annotation Guidelines
+---
+
+## Annotation Guidelines
+
+Detailed annotation instructions, including procedures, quality-control measures, and schema definitions, are available in the document:
+
+📄 [Annotation Manual (PDF)](https://github.com/LIAAD//blob/main/ClaimPT%20Annotation%20Manual.pdf)
+
+This manual describes:
+
+* The annotation process and methodology
+* The annotation scheme and entity structures
+* The definition of a claim
+* Metadata and label taxonomy
+* Examples and boundary cases
+
+Researchers interested in replicating the annotation or training models should refer to this guide.
+
 
 Dataset Access
 
