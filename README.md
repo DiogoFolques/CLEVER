@@ -57,7 +57,7 @@ The **ClaimPT** dataset is provided in **JSONL** format, where each line corresp
 ```json
 [
   {
-    "document": "input_part008.txt",
+    "document": "eleições_008.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 501,
