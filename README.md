@@ -101,6 +101,22 @@ This manual describes:
 
 Researchers interested in replicating the annotation or training models should refer to this guide.
 
+---
+
+## Dataset Access
+
+### Sample Dataset
+
+A sample subset (20 annotated articles) is included in the repository under the dataset_sample/ directory
+
+### Full Dataset
+
+The complete dataset (1,308 articles) is protected by a **Data Use Agreement** and will be made available through the following DOI once the research paper is published:
+
+
+
+Please visit the DOI link for access details and usage terms.
+
 
 Dataset Access
 
