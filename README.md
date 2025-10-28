@@ -16,11 +16,6 @@ We introduce CLEVER, a dataset of European Portuguese news articles annotated fo
 │
 ├── Annotation_Guidelines.pdf
 │
-├── generative_baselines/ 
-│ ├── generative_baseline.ipynb
-├── bert_baselines/ 
-│ ├── bert-finetune.ipynb
-| ├── evaluate.py
 ├── LICENSE
 └── README.md
 
