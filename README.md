@@ -13,7 +13,7 @@ We introduce CLEVER, a dataset of European Portuguese news articles annotated fo
 │ ├── annotations.pretty.json
 │ ├── news_articles/
 │ │ └── *.txt
-├── Annotation_Guidelines.pdf
+├── CLEVER Verification Manual_ING.pdf
 ├── LICENSE
 └── README.md
 
@@ -89,7 +89,7 @@ The **ClaimPT** dataset is provided in **JSONL** format, where each line corresp
 
 Detailed annotation instructions, including procedures, quality-control measures, and schema definitions, are available in the document:
 
-📄 [Annotation Manual (PDF)](https://github.com/LIAAD//blob/main/ClaimPT%20Annotation%20Manual.pdf)
+📄 [CLEVER Verification Manual (PDF)]()
 
 This manual describes:
 
