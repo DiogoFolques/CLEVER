@@ -98,6 +98,7 @@ This manual describes:
 * The definition of a claim
 * Metadata and label taxonomy
 * Examples and boundary cases
+* The verification process and methodology
 
 Researchers interested in replicating the annotation or training models should refer to this guide.
 
