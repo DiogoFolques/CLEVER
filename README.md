@@ -112,12 +112,6 @@ A sample subset (20 annotated articles) is included in the repository under the 
 
 ### Full Dataset
 
-The complete dataset (228 articles) is protected by a **Data Use Agreement** and will be made available through the following DOI once the research paper is published:
+The complete dataset (228 articles) will be made available once the research paper is published.
 
-
-
-Please visit the DOI link for access details and usage terms.
-
-
-Dataset Access
 
