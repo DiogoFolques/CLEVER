@@ -1,6 +1,6 @@
 [
   {
-    "document": "input_part008.txt",
+    "document": "eleições_008.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 501,
@@ -25,7 +25,7 @@
     "Time": ""
   },
   {
-    "document": "input_part014.txt",
+    "document": "eleições_014.txt",
     "claim": false,
     "begin_character": 677,
     "end_character": 775,
@@ -33,7 +33,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part014.txt",
+    "document": "eleições_014.txt",
     "claim": false,
     "begin_character": 777,
     "end_character": 827,
@@ -41,7 +41,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part014.txt",
+    "document": "eleições_014.txt",
     "claim": false,
     "begin_character": 1623,
     "end_character": 1736,
@@ -49,7 +49,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part028.txt",
+    "document": "eleições_028.txt",
     "claim": false,
     "begin_character": 1065,
     "end_character": 1099,
@@ -57,7 +57,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part028.txt",
+    "document": "eleições_028.txt",
     "claim": false,
     "begin_character": 1101,
     "end_character": 1322,
@@ -65,7 +65,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part035.txt",
+    "document": "eleições_035.txt",
     "claim": false,
     "begin_character": 351,
     "end_character": 417,
@@ -73,7 +73,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part035.txt",
+    "document": "eleições_035.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 1071,
@@ -109,7 +109,7 @@
     }
   },
   {
-    "document": "input_part046.txt",
+    "document": "eleições_046.txt",
     "claim": false,
     "begin_character": 2324,
     "end_character": 2624,
@@ -117,7 +117,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part046.txt",
+    "document": "eleições_046.txt",
     "claim": false,
     "begin_character": 2741,
     "end_character": 2886,
@@ -125,7 +125,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part046.txt",
+    "document": "eleições_046.txt",
     "claim": false,
     "begin_character": 2888,
     "end_character": 2985,
@@ -133,7 +133,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part048.txt",
+    "document": "eleições_048.txt",
     "claim": false,
     "begin_character": 1621,
     "end_character": 1667,
@@ -141,7 +141,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part050.txt",
+    "document": "eleições_050.txt",
     "claim": false,
     "begin_character": 354,
     "end_character": 433,
@@ -149,7 +149,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part050.txt",
+    "document": "eleições_050.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 1196,
@@ -185,7 +185,7 @@
     }
   },
   {
-    "document": "input_part050.txt",
+    "document": "eleições_050.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 1364,
@@ -221,7 +221,7 @@
     }
   },
   {
-    "document": "input_part050.txt",
+    "document": "eleições_050.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 1459,
@@ -257,7 +257,7 @@
     }
   },
   {
-    "document": "input_part050.txt",
+    "document": "eleições_050.txt",
     "claim": false,
     "begin_character": 1832,
     "end_character": 1887,
@@ -265,7 +265,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part050.txt",
+    "document": "eleições_050.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 1995,
@@ -306,7 +306,7 @@
     }
   },
   {
-    "document": "input_part050.txt",
+    "document": "eleições_050.txt",
     "claim": false,
     "begin_character": 2412,
     "end_character": 2593,
@@ -314,7 +314,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part060.txt",
+    "document": "eleições_060.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 302,
@@ -350,7 +350,7 @@
     }
   },
   {
-    "document": "input_part060.txt",
+    "document": "eleições_060.txt",
     "claim": false,
     "begin_character": 900,
     "end_character": 992,
@@ -358,7 +358,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part060.txt",
+    "document": "eleições_060.txt",
     "claim": false,
     "begin_character": 1876,
     "end_character": 2035,
@@ -366,7 +366,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part060.txt",
+    "document": "eleições_060.txt",
     "claim": false,
     "begin_character": 2037,
     "end_character": 2163,
@@ -374,7 +374,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part060.txt",
+    "document": "eleições_060.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 2578,
@@ -403,7 +403,7 @@
     }
   },
   {
-    "document": "input_part060.txt",
+    "document": "eleições_060.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 2713,
@@ -446,7 +446,7 @@
     }
   },
   {
-    "document": "input_part063.txt",
+    "document": "eleições_063.txt",
     "claim": false,
     "begin_character": 1691,
     "end_character": 1738,
@@ -454,7 +454,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part063.txt",
+    "document": "eleições_063.txt",
     "claim": false,
     "begin_character": 2065,
     "end_character": 2115,
@@ -462,7 +462,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part063.txt",
+    "document": "eleições_063.txt",
     "claim": false,
     "begin_character": 2233,
     "end_character": 2371,
@@ -470,7 +470,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part063.txt",
+    "document": "eleições_063.txt",
     "claim": false,
     "begin_character": 2373,
     "end_character": 2483,
@@ -478,7 +478,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part063.txt",
+    "document": "eleições_063.txt",
     "claim": false,
     "begin_character": 2613,
     "end_character": 2667,
@@ -486,7 +486,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part063.txt",
+    "document": "eleições_063.txt",
     "claim": false,
     "begin_character": 2669,
     "end_character": 2709,
@@ -494,7 +494,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part063.txt",
+    "document": "eleições_063.txt",
     "claim": false,
     "begin_character": 2711,
     "end_character": 2819,
@@ -502,7 +502,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part065.txt",
+    "document": "eleições_065.txt",
     "claim": false,
     "begin_character": 1904,
     "end_character": 1996,
@@ -510,7 +510,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part065.txt",
+    "document": "eleições_065.txt",
     "claim": false,
     "begin_character": 3405,
     "end_character": 3487,
@@ -518,7 +518,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part074.txt",
+    "document": "eleições_074.txt",
     "claim": false,
     "begin_character": 1068,
     "end_character": 1159,
@@ -526,7 +526,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part074.txt",
+    "document": "eleições_074.txt",
     "claim": false,
     "begin_character": 1329,
     "end_character": 1381,
@@ -534,7 +534,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part074.txt",
+    "document": "eleições_074.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 3572,
@@ -566,7 +566,7 @@
     "Time": ""
   },
   {
-    "document": "input_part076.txt",
+    "document": "eleições_076.txt",
     "claim": false,
     "begin_character": 600,
     "end_character": 639,
@@ -574,7 +574,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part076.txt",
+    "document": "eleições_076.txt",
     "claim": false,
     "begin_character": 641,
     "end_character": 773,
@@ -582,7 +582,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part076.txt",
+    "document": "eleições_076.txt",
     "claim": false,
     "begin_character": 1005,
     "end_character": 1051,
@@ -590,7 +590,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part077.txt",
+    "document": "eleições_077.txt",
     "claim": false,
     "begin_character": 2460,
     "end_character": 2573,
@@ -598,7 +598,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part077.txt",
+    "document": "eleições_077.txt",
     "claim": false,
     "begin_character": 3333,
     "end_character": 3443,
@@ -606,7 +606,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part086.txt",
+    "document": "eleições_086.txt",
     "claim": false,
     "begin_character": 365,
     "end_character": 434,
@@ -614,7 +614,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part086.txt",
+    "document": "eleições_086.txt",
     "claim": false,
     "begin_character": 436,
     "end_character": 517,
@@ -622,7 +622,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part086.txt",
+    "document": "eleições_086.txt",
     "claim": false,
     "begin_character": 2104,
     "end_character": 2154,
@@ -630,7 +630,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part086.txt",
+    "document": "eleições_086.txt",
     "claim": false,
     "begin_character": 2522,
     "end_character": 2558,
@@ -638,7 +638,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part086.txt",
+    "document": "eleições_086.txt",
     "claim": false,
     "begin_character": 2560,
     "end_character": 2748,
@@ -646,7 +646,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part086.txt",
+    "document": "eleições_086.txt",
     "claim": false,
     "begin_character": 2875,
     "end_character": 2935,
@@ -654,7 +654,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part086.txt",
+    "document": "eleições_086.txt",
     "claim": false,
     "begin_character": 3110,
     "end_character": 3312,
@@ -662,7 +662,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "claim": false,
     "begin_character": 313,
     "end_character": 511,
@@ -670,7 +670,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "claim": false,
     "begin_character": 1004,
     "end_character": 1144,
@@ -678,7 +678,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "claim": false,
     "begin_character": 1146,
     "end_character": 1351,
@@ -686,7 +686,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "claim": false,
     "begin_character": 1373,
     "end_character": 1461,
@@ -694,7 +694,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "claim": false,
     "begin_character": 1463,
     "end_character": 1543,
@@ -702,7 +702,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "claim": false,
     "begin_character": 2653,
     "end_character": 2700,
@@ -710,7 +710,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 2803,
@@ -746,7 +746,7 @@
     }
   },
   {
-    "document": "input_part087.txt",
+    "document": "eleições_087.txt",
     "claim": false,
     "begin_character": 3186,
     "end_character": 3350,
@@ -754,7 +754,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part088.txt",
+    "document": "eleições_088.txt",
     "claim": false,
     "begin_character": 1534,
     "end_character": 1655,
@@ -762,7 +762,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part088.txt",
+    "document": "eleições_088.txt",
     "claim": false,
     "begin_character": 2927,
     "end_character": 3051,
@@ -770,7 +770,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part100.txt",
+    "document": "eleições_100.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 808,
@@ -811,7 +811,7 @@
     }
   },
   {
-    "document": "input_part100.txt",
+    "document": "eleições_100.txt",
     "claim": false,
     "begin_character": 1138,
     "end_character": 1188,
@@ -819,7 +819,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part100.txt",
+    "document": "eleições_100.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 1692,
@@ -860,7 +860,7 @@
     }
   },
   {
-    "document": "input_part100.txt",
+    "document": "eleições_100.txt",
     "claim": false,
     "begin_character": 2043,
     "end_character": 2208,
@@ -868,7 +868,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part100.txt",
+    "document": "eleições_100.txt",
     "claim": false,
     "begin_character": 2543,
     "end_character": 2631,
@@ -876,7 +876,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part100.txt",
+    "document": "eleições_100.txt",
     "claim": false,
     "begin_character": 2696,
     "end_character": 2748,
@@ -884,7 +884,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part100.txt",
+    "document": "eleições_100.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 3094,
@@ -925,7 +925,7 @@
     }
   },
   {
-    "document": "input_part105.txt",
+    "document": "eleições_105.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 737,
@@ -954,7 +954,7 @@
     }
   },
   {
-    "document": "input_part105.txt",
+    "document": "eleições_105.txt",
     "publication_time": "04 dez 2023",
     "claim": true,
     "begin_character": 2771,
@@ -990,7 +990,7 @@
     }
   },
   {
-    "document": "input_part116.txt",
+    "document": "eleições_116.txt",
     "claim": false,
     "begin_character": 1850,
     "end_character": 1882,
@@ -998,7 +998,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part116.txt",
+    "document": "eleições_116.txt",
     "claim": false,
     "begin_character": 1887,
     "end_character": 1948,
@@ -1006,7 +1006,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part116.txt",
+    "document": "eleições_116.txt",
     "claim": false,
     "begin_character": 2240,
     "end_character": 2350,
@@ -1014,7 +1014,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 815,
     "end_character": 884,
@@ -1022,7 +1022,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 942,
     "end_character": 1098,
@@ -1030,7 +1030,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 1251,
     "end_character": 1287,
@@ -1038,7 +1038,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 1586,
     "end_character": 1774,
@@ -1046,7 +1046,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 2010,
     "end_character": 2063,
@@ -1054,7 +1054,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 2142,
     "end_character": 2211,
@@ -1062,7 +1062,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 2548,
     "end_character": 2635,
@@ -1070,7 +1070,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 2824,
     "end_character": 2851,
@@ -1078,7 +1078,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 3306,
     "end_character": 3467,
@@ -1086,7 +1086,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 3469,
     "end_character": 3607,
@@ -1094,7 +1094,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 3878,
     "end_character": 3990,
@@ -1102,7 +1102,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 3992,
     "end_character": 4047,
@@ -1110,7 +1110,7 @@
     "publication_time": "04 dez 2023"
   },
   {
-    "document": "input_part125.txt",
+    "document": "eleições_125.txt",
     "claim": false,
     "begin_character": 4049,
     "end_character": 4080,
