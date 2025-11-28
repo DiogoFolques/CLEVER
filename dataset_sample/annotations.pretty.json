@@ -1,0 +1,1117 @@
+[
+  {
+    "document": "news_0001.txt",
+    "news_article_topic": "politics",
+    "publication_time": "05 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 348,
+        "end_character": 383,
+        "text_segment": "Nós não estamos aqui com históricos",
+        "id": "news_0001_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 385,
+        "end_character": 456,
+        "text_segment": "Nós não queremos estar com históricos, nós queremos olhar para o futuro",
+        "id": "news_0001_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 458,
+        "end_character": 519,
+        "text_segment": "Eu não quero dar a Portugal um passado, esse, Portugal já tem",
+        "id": "news_0001_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 791,
+        "end_character": 833,
+        "text_segment": "Eu quero ser o primeiro-ministro do futuro",
+        "id": "news_0001_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 1229,
+        "end_character": 1322,
+        "text_segment": "Foi primeiro-ministro entre 2011 e 2015, eu quero ser primeiro-ministro de 2025 para a frente",
+        "id": "news_0001_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 1542,
+        "end_character": 1640,
+        "text_segment": "É estranho o professor Cavaco Silva estar tão empenhado nestas eleições, quando não esteve noutras",
+        "id": "news_0001_c6"
+      }
+    ]
+  },
+  {
+    "document": "news_0004.txt",
+    "news_article_topic": "politics",
+    "publication_time": "05 mai 2025",
+    "items": [
+      {
+        "claim": true,
+        "begin_character": 664,
+        "end_character": 746,
+        "text_segment": "Eu lembro que Cavaco Silva, 13 dias antes de o BES cair, disse que estava tudo bem",
+        "claim_topic": "politics",
+        "claim_span": {
+          "text": "Cavaco Silva, 13 dias antes de o BES cair, disse que estava tudo bem",
+          "begin": 678,
+          "end": 746
+        },
+        "claim_object": {
+          "text": "disse que estava tudo bem",
+          "begin": 721,
+          "end": 746
+        },
+        "claimer": [
+          {
+            "text": "O líder do PS",
+            "begin": 138,
+            "end": 151
+          },
+          {
+            "text": "Pedro Nuno Santos",
+            "begin": 409,
+            "end": 426
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 161,
+          "end": 165
+        },
+        "id": "news_0004_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1067,
+        "end_character": 1116,
+        "text_segment": "eu sou genuíno, eu sou aquilo que as pessoas veem",
+        "id": "news_0004_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1118,
+        "end_character": 1139,
+        "text_segment": "Luís Montenegro não é",
+        "id": "news_0004_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1143,
+        "end_character": 1296,
+        "text_segment": "[Estas acusações são] de um homem que não está de forma séria na política, que está habituado a mentir e a enganar as pessoas e acha que são todos iguais",
+        "id": "news_0004_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 1298,
+        "end_character": 1353,
+        "text_segment": "Eu não engano ninguém, eu sou genuíno, sou transparente",
+        "id": "news_0004_c5"
+      }
+    ]
+  },
+  {
+    "document": "news_0007.txt",
+    "news_article_topic": "politics",
+    "publication_time": "06 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 1160,
+        "end_character": 1185,
+        "text_segment": "Nós somos a base do mundo",
+        "id": "news_0007_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1187,
+        "end_character": 1265,
+        "text_segment": "Porque sem limpeza não há vocês, não há Assembleia, não há o primeiro-ministro",
+        "id": "news_0007_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 2043,
+        "end_character": 2353,
+        "text_segment": "Para um país onde se ouve falar tanto de meritocracia, ninguém me convence que alguém tem mais mérito na sociedade portuguesa que uma mulher que se levanta às quatro e meia da manhã e apanha três autocarros para limpar três casas ou três instituições e volta à casa às nove da noite para cuidar dos seus filhos",
+        "id": "news_0007_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 2355,
+        "end_character": 2423,
+        "text_segment": "Esta certamente será a mulher com mais mérito da economia portuguesa",
+        "id": "news_0007_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 3123,
+        "end_character": 3197,
+        "text_segment": "São estas pessoas a quem a extrema-direita diz ‘voltem para a vossa terra’",
+        "id": "news_0007_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 3199,
+        "end_character": 3357,
+        "text_segment": "São estas pessoas que toda a direita espezinha dizendo que não têm mérito para vingar na sociedade e nós queremos dar-lhes voz, queremos dar-lhes visibilidade",
+        "id": "news_0007_c6"
+      },
+      {
+        "claim": false,
+        "begin_character": 3636,
+        "end_character": 3689,
+        "text_segment": "Vocês têm tacho no parlamento e o meu tacho está aqui",
+        "id": "news_0007_c7"
+      }
+    ]
+  },
+  {
+    "document": "news_0009.txt",
+    "news_article_topic": "politics",
+    "publication_time": "06 mai 2025",
+    "items": [
+      {
+        "claim": true,
+        "begin_character": 282,
+        "end_character": 558,
+        "text_segment": "Portugal está a ser mais afetado do que os outros [países], porque o presidente da AD, o primeiro-ministro, não fez o que tinha prometido, que era criar um ambiente favorável a que as empresas se instalassem, investissem, se desenvolvessem, porque não deu confiança ao mercado",
+        "claim_topic": "politics",
+        "claim_span": {
+          "text": "o primeiro-ministro, não fez o que tinha prometido, que era criar um ambiente favorável a que as empresas se instalassem, investissem, se desenvolvessem, porque não deu confiança ao mercado",
+          "begin": 369,
+          "end": 558
+        },
+        "claim_object": {
+          "text": "não fez o que tinha prometido",
+          "begin": 390,
+          "end": 419
+        },
+        "claimer": [
+          {
+            "text": "André Ventura",
+            "begin": 569,
+            "end": 582
+          },
+          {
+            "text": "O líder do Chega",
+            "begin": 105,
+            "end": 121
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 129,
+          "end": 133
+        },
+        "id": "news_0009_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1604,
+        "end_character": 1725,
+        "text_segment": "Enquanto tivermos as leis como elas estão, nós não vamos ter mais segurança, porque as pessoas são presas e postas na rua",
+        "id": "news_0009_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1830,
+        "end_character": 1938,
+        "text_segment": "Nós pensamos que deveríamos ter um aumento de 5% a 10% em termos de infraestruturas neste primeiro Orçamento",
+        "id": "news_0009_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 2262,
+        "end_character": 2422,
+        "text_segment": "Estou aqui para dizer aos homens e às mulheres do distrito do Porto que eu vou tornar este distrito seguro, e que nós vamos ter um Porto mais seguro com o Chega",
+        "id": "news_0009_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 2424,
+        "end_character": 2467,
+        "text_segment": "A AD não conseguiu fazer, nós vamos fazê-lo",
+        "id": "news_0009_c5"
+      }
+    ]
+  },
+  {
+    "document": "news_0012.txt",
+    "news_article_topic": "politics",
+    "publication_time": "06 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 373,
+        "end_character": 513,
+        "text_segment": "Eu não acredito é que este tipo de campanha em que se chantageia as pessoas com uma falsa estabilidade consiga garantir estabilidade ao país",
+        "id": "news_0012_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 552,
+        "end_character": 780,
+        "text_segment": "Não acredito que, se Luís Montenegro tiver mais um voto que Pedro Nuno Santos, consiga trazer estabilidade ao país e, se Pedro Nuno Santos tiver mais um voto que Luís Montenegro, também não será capaz de trazer essa estabilidade",
+        "id": "news_0012_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1237,
+        "end_character": 1376,
+        "text_segment": "A estabilidade será trazida a Portugal se nós conseguirmos ter deputados que no Parlamento aprovem medidas que respondam à vida das pessoas",
+        "id": "news_0012_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1790,
+        "end_character": 2089,
+        "text_segment": "Quando estivermos no parlamento, os deputados e as deputadas do BE assumem um compromisso com todas as medidas que defenderam ao longo desta campanha, sobre os salários, as casas, taxar os ricos, as condições de vida, a saúde, sobre respeitar um povo inteiro que se esforça para chegar ao fim do mês",
+        "id": "news_0012_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 2525,
+        "end_character": 3000,
+        "text_segment": "Um voto de cada pessoa que ganha o salário mínimo, um voto de cada pessoa que trabalha por turnos, de cada mulher que sai de casa às quatro da manhã para ir fazer as limpezas e que volta à casa às oito da noite, vale tanto como um voto do banqueiro, vale tanto como o voto do dono do fundo especulativo que especula com a casa, vale tanto como o voto de Luís Montenegro, vale tanto como o voto de cada um dos dirigentes da extrema-direita que insulta as pessoas que trabalham",
+        "id": "news_0012_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 3187,
+        "end_character": 3301,
+        "text_segment": "E a esquerda está cá para as defender, para as representar e o Bloco de Esquerda fará isso ao longo desta campanha",
+        "id": "news_0012_c6"
+      }
+    ]
+  },
+  {
+    "document": "news_0016.txt",
+    "news_article_topic": "politics",
+    "publication_time": "07 mai 2025",
+    "items": [
+      {
+        "claim": true,
+        "begin_character": 1029,
+        "end_character": 1224,
+        "text_segment": "Muitos portugueses que esperaram pelo SNS meses a fio, anos até, e que só (...) tiveram a oportunidade de beneficiar de serviços [de saúde devido ao papel] que a Misericórdia de Vila Verde presta",
+        "claim_topic": "health",
+        "claim_span": {
+          "text": "Muitos portugueses que esperaram pelo SNS meses a fio, anos até, e que só (...) tiveram a oportunidade de beneficiar de serviços [de saúde devido ao papel] que a Misericórdia de Vila Verde presta",
+          "begin": 1029,
+          "end": 1224
+        },
+        "claim_object": {
+          "text": "beneficiar de serviços [de saúde",
+          "begin": 1135,
+          "end": 1167
+        },
+        "claimer": [
+          {
+            "text": "O líder da IL",
+            "begin": 787,
+            "end": 800
+          },
+          {
+            "text": "Rui Rocha",
+            "begin": 942,
+            "end": 951
+          },
+          {
+            "text": "Rui Rocha",
+            "begin": 3625,
+            "end": 3634
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 179,
+          "end": 183
+        },
+        "id": "news_0016_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1343,
+        "end_character": 1456,
+        "text_segment": "Nós temos que usar toda a capacidade instalada na saúde para que os portugueses não passem meses ou anos à espera",
+        "id": "news_0016_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1628,
+        "end_character": 1703,
+        "text_segment": "não vai acontecer que o SNS tenha capacidade para 10 milhões de portugueses",
+        "id": "news_0016_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 2574,
+        "end_character": 2711,
+        "text_segment": "Não é preciso gastar mais, é preciso é fazer uma alocação e uma gestão correta de recursos e, mesmo dentro do SNS, há muita coisa a fazer",
+        "id": "news_0016_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 2713,
+        "end_character": 2839,
+        "text_segment": "Nós queremos que o SNS, enquanto tal, tenha mais produtividade, que haja incentivos à produtividade dos profissionais de saúde",
+        "id": "news_0016_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 3066,
+        "end_character": 3204,
+        "text_segment": "A direção executiva é um órgão muito importante para tirar as decisões de gestão de um ministério que está tomado por clientelas políticas",
+        "id": "news_0016_c6"
+      },
+      {
+        "claim": true,
+        "begin_character": 3686,
+        "end_character": 3830,
+        "text_segment": "Vi a AD, em determinados momentos, com muitas dúvidas sobre a questão da direção executiva e falou-se até de retirar poderes à direção executiva",
+        "claim_topic": "politics",
+        "claim_span": {
+          "text": "falou-se até de retirar poderes à direção executiva",
+          "begin": 3779,
+          "end": 3830
+        },
+        "claim_object": {
+          "text": "retirar poderes",
+          "begin": 3795,
+          "end": 3810
+        },
+        "claimer": [
+          {
+            "text": "O líder da IL",
+            "begin": 787,
+            "end": 800
+          },
+          {
+            "text": "Rui Rocha",
+            "begin": 942,
+            "end": 951
+          },
+          {
+            "text": "Rui Rocha",
+            "begin": 3625,
+            "end": 3634
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 179,
+          "end": 183
+        },
+        "id": "news_0016_c7"
+      },
+      {
+        "claim": false,
+        "begin_character": 3832,
+        "end_character": 3976,
+        "text_segment": "É o caminho errado, porque retirar poderes à direção executiva é devolver poderes à máquina político-partidária instalada no Ministério da Saúde",
+        "id": "news_0016_c8"
+      }
+    ]
+  },
+  {
+    "document": "news_0019.txt",
+    "news_article_topic": "politics",
+    "publication_time": "07 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 692,
+        "end_character": 781,
+        "text_segment": "A mim parece-me evidente que a ideologia não deve estar presente nos programas educativos",
+        "id": "news_0019_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 892,
+        "end_character": 941,
+        "text_segment": "E, portanto, não faz sentido que continue a estar",
+        "id": "news_0019_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 943,
+        "end_character": 1131,
+        "text_segment": "Nós não estamos aqui para doutrinar os jovens, estamos para lhes criar oportunidades, para lhes ensinar sobretudo liberdade: de pensamento, de juízo crítico, de criticar aquilo que envolve",
+        "id": "news_0019_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1289,
+        "end_character": 1410,
+        "text_segment": "E parece-me evidente que, nos casos em que existe essa tentativa de doutrinação pelos conteúdos escolares, não deve tê-lo",
+        "id": "news_0019_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 1412,
+        "end_character": 1560,
+        "text_segment": "A nossa visão é de que é preciso apostar em áreas fundamentais para que os jovens estejam preparados para o mundo que se está a formar neste momento",
+        "id": "news_0019_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 2444,
+        "end_character": 2525,
+        "text_segment": "os factos históricos devem ser factos históricos relatados com a isenção possível",
+        "id": "news_0019_c6"
+      },
+      {
+        "claim": false,
+        "begin_character": 2591,
+        "end_character": 2632,
+        "text_segment": "E esse sentido crítico é muito importante",
+        "id": "news_0019_c7"
+      },
+      {
+        "claim": false,
+        "begin_character": 2634,
+        "end_character": 2723,
+        "text_segment": "Quando se passa uma visão apenas da História, isso condiciona também esse sentido crítico",
+        "id": "news_0019_c8"
+      }
+    ]
+  },
+  {
+    "document": "news_0021.txt",
+    "news_article_topic": "politics",
+    "publication_time": "07 mai 2025",
+    "items": []
+  },
+  {
+    "document": "news_0024.txt",
+    "news_article_topic": "politics",
+    "publication_time": "07 mai 2025",
+    "items": [
+      {
+        "claim": true,
+        "begin_character": 680,
+        "end_character": 773,
+        "text_segment": "linha do Vouga, prometida há anos, continua parada, e as autoestradas continuam a serem pagas",
+        "claim_topic": "politics",
+        "claim_span": [
+          {
+            "text": "linha do Vouga, prometida há anos, continua parada",
+            "begin": 680,
+            "end": 730
+          },
+          {
+            "text": "as autoestradas continuam a serem pagas",
+            "begin": 734,
+            "end": 773
+          }
+        ],
+        "claim_object": [
+          {
+            "text": "continua parada",
+            "begin": 715,
+            "end": 730
+          },
+          {
+            "text": "continuam a serem pagas",
+            "begin": 750,
+            "end": 773
+          }
+        ],
+        "claimer": [
+          {
+            "text": "Pedro Frazão",
+            "begin": 652,
+            "end": 664
+          },
+          {
+            "text": "cabeça de lista do Chega pelo círculo eleitoral de Aveiro, Pedro Frazão",
+            "begin": 127,
+            "end": 198
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 211,
+          "end": 215
+        },
+        "id": "news_0024_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1203,
+        "end_character": 1276,
+        "text_segment": "Não estão, prometem tudo, prometem o futuro, mas continuam sem fazer nada",
+        "id": "news_0024_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1474,
+        "end_character": 1568,
+        "text_segment": "Digam lá se as mulheres da direita, as mulheres da verdadeira direita, não são as mais bonitas",
+        "id": "news_0024_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 2078,
+        "end_character": 2293,
+        "text_segment": "absolutamente convencido de que Aveiro vai levantar-se e vai mostrar que já não quer ser mandado por partidos falhados, por políticos do sistema, e por essa gente que vive encostada ao grande Estado, ao gordo Estado",
+        "id": "news_0024_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 2297,
+        "end_character": 2398,
+        "text_segment": "Aveiro, meus amigos, vai dar uma lição a quem andou a brincar com a vida das pessoas nos últimos anos",
+        "id": "news_0024_c5"
+      }
+    ]
+  },
+  {
+    "document": "news_0036.txt",
+    "news_article_topic": "politics",
+    "publication_time": "09 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 643,
+        "end_character": 669,
+        "text_segment": "o mercado não resolve tudo",
+        "id": "news_0036_c1"
+      },
+      {
+        "claim": true,
+        "begin_character": 710,
+        "end_character": 1029,
+        "text_segment": "Nós já tínhamos percebido que Luís Montenegro não é liberal, já tínhamos percebido que as políticas de habitação da AD são políticas que não estão a funcionar, que fizeram aumentar os preços porque aumentou a procura e não teve a coragem necessária para tomar as medidas para que venham mais casas, que haja mais oferta",
+        "claim_topic": "politics",
+        "claim_span": {
+          "text": "as políticas de habitação da AD são políticas que não estão a funcionar, que fizeram aumentar os preços porque aumentou a procura",
+          "begin": 797,
+          "end": 926
+        },
+        "claim_object": {
+          "text": "políticas de habitação da AD",
+          "begin": 800,
+          "end": 828
+        },
+        "claimer": [
+          {
+            "text": "o líder da IL",
+            "begin": 1042,
+            "end": 1055
+          },
+          {
+            "text": "Rui Rocha",
+            "begin": 491,
+            "end": 500
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 187,
+          "end": 191
+        },
+        "id": "news_0036_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1229,
+        "end_character": 1416,
+        "text_segment": "É o momento de os portugueses darem força à IL para nós começarmos a resolver os problemas da habitação, porque já percebemos que, com a AD, agrava-se aquilo que já era muito mau com o PS",
+        "id": "news_0036_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1821,
+        "end_character": 2095,
+        "text_segment": "O que nós não vamos aceitar é que o discurso político continue a prometer coisas que nós sabemos que não vão acontecer e, portanto, quando nós dizemos que queremos baixar o IVA da construção – que a AD não fez –, para trazer mais casas para o mercado, para nós é fundamental",
+        "id": "news_0036_c4"
+      }
+    ]
+  },
+  {
+    "document": "news_0041.txt",
+    "news_article_topic": "politics",
+    "publication_time": "10 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 1193,
+        "end_character": 1319,
+        "text_segment": "As pessoas sabem bem aquilo que precisam para o país, querem estabilidade, não querem nem experimentalismo, nem aventureirismo",
+        "id": "news_0041_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1321,
+        "end_character": 1455,
+        "text_segment": "O mundo não está estável e essa estabilidade só é garantida entre dois primeiros-ministros: ou Pedro Nuno de Santos ou Luís Montenegro",
+        "id": "news_0041_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1457,
+        "end_character": 1506,
+        "text_segment": "Confiamos que o povo vai escolher Luís Montenegro",
+        "id": "news_0041_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1752,
+        "end_character": 1963,
+        "text_segment": "Espero que esteja isso em causa também, porque não tenho a mínima dúvida que, quando forem escolher, não há a mínima dúvida que a integridade também está com o candidato e com o primeiro-ministro Luís Montenegro",
+        "id": "news_0041_c4"
+      }
+    ]
+  },
+  {
+    "document": "news_0055.txt",
+    "news_article_topic": "politics",
+    "publication_time": "12 mai",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 413,
+        "end_character": 465,
+        "text_segment": "E com preocupação vemos a reação da senhora ministra",
+        "id": "news_0055_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 467,
+        "end_character": 574,
+        "text_segment": "Aquilo que está bem foi responsabilidade deles, aquilo que está mal eles responsabilizam o Governo anterior",
+        "id": "news_0055_c2"
+      },
+      {
+        "claim": true,
+        "begin_character": 860,
+        "end_character": 953,
+        "text_segment": "Este Governo desistiu de salvar o SNS, prefere desviar recursos para o setor privado da saúde",
+        "claim_topic": "politics",
+        "claim_span": {
+          "text": "Este Governo desistiu de salvar o SNS, prefere desviar recursos para o setor privado da saúde",
+          "begin": 860,
+          "end": 953
+        },
+        "claim_object": {
+          "text": "desviar recursos",
+          "begin": 907,
+          "end": 923
+        },
+        "claimer": [
+          {
+            "text": "o líder do PS",
+            "begin": 753,
+            "end": 766
+          },
+          {
+            "text": "Pedro Nuno Santos",
+            "begin": 587,
+            "end": 604
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 183,
+          "end": 187
+        },
+        "id": "news_0055_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 955,
+        "end_character": 996,
+        "text_segment": "Não é assim que vão resolver os problemas",
+        "id": "news_0055_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 1185,
+        "end_character": 1277,
+        "text_segment": "Esta senhora ministra nunca foi capaz de dizer: sim, aqui falhamos, sim aqui não fizemos bem",
+        "id": "news_0055_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 1279,
+        "end_character": 1433,
+        "text_segment": "Não é capaz, ao dia de hoje, de assumir um bocadinho de responsabilidades no trabalho que teve, nomeadamente no agravamento dos problemas na área da saúde",
+        "id": "news_0055_c6"
+      },
+      {
+        "claim": false,
+        "begin_character": 1699,
+        "end_character": 1948,
+        "text_segment": "Ninguém pode dizer hoje que não está relacionado, mais do que com as urgências [encerradas], com a diminuição, nos últimos anos, daquilo que tem sido o investimento que precisamos de fazer, concretamente, no sistema público, na área materno-infantil",
+        "id": "news_0055_c7"
+      }
+    ]
+  },
+  {
+    "document": "news_0058.txt",
+    "news_article_topic": "politics",
+    "publication_time": "12 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 708,
+        "end_character": 829,
+        "text_segment": "claramente já não é o momento do Luís Montenegro, agora é o momento do Chega governar o país e é isso que se sente na rua",
+        "id": "news_0058_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 833,
+        "end_character": 981,
+        "text_segment": "Eu acho que os portugueses querem mesmo combater tudo o que é corrupção e tudo aquilo que foram 50 anos de negociatas à volta da influência política",
+        "id": "news_0058_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 983,
+        "end_character": 1074,
+        "text_segment": "E por isso eu acho que o que vai acontecer é os portugueses vão dar um cartão vermelho à AD",
+        "id": "news_0058_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1100,
+        "end_character": 1129,
+        "text_segment": "as pessoas querem uma mudança",
+        "id": "news_0058_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 2599,
+        "end_character": 2685,
+        "text_segment": "Eu acho que se o Duarte Cordeiro se afastou da política por alguma razão deve ter sido",
+        "id": "news_0058_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 2687,
+        "end_character": 2785,
+        "text_segment": "É porque ele perdeu a vergonha e a integridade, e eu ainda cá estou sem vergonha e com integridade",
+        "id": "news_0058_c6"
+      },
+      {
+        "claim": false,
+        "begin_character": 3012,
+        "end_character": 3089,
+        "text_segment": "O Algarve e o país todo hoje têm orgulho em ser do Chega, como se podia ouvir",
+        "id": "news_0058_c7"
+      },
+      {
+        "claim": false,
+        "begin_character": 3091,
+        "end_character": 3194,
+        "text_segment": "As pessoas estão a ter orgulho de mostrar essa mudança e de mostrar que já não são nem de PS nem de PSD",
+        "id": "news_0058_c8"
+      },
+      {
+        "claim": false,
+        "begin_character": 3237,
+        "end_character": 3416,
+        "text_segment": "aquilo que aconteceu aqui hoje no Algarve é só o símbolo do que vai acontecer no país todo no domingo, uma onda verdadeiramente enorme do Chega a varrer o poder político em Lisboa",
+        "id": "news_0058_c9"
+      }
+    ]
+  },
+  {
+    "document": "news_0060.txt",
+    "news_article_topic": "politics",
+    "publication_time": "15 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 726,
+        "end_character": 931,
+        "text_segment": "Pedro Nuno Santos e o PS merecem essa vitória, porque ele é a única pessoa em Portugal hoje que pode impedir a vitória de um candidato que já anunciou que vai introduzir a motosserra no Governo de Portugal",
+        "id": "news_0060_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 933,
+        "end_character": 1037,
+        "text_segment": "E a motosserra no Governo de Portugal significa dar azo aos projetos mais radicais da Iniciativa Liberal",
+        "id": "news_0060_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1434,
+        "end_character": 1659,
+        "text_segment": "E nós temos que decidir no dia 18 de maio se queremos um líder forte, um líder responsável como Pedro Nuno Santos, comprometido com os problemas de Portugal, com a economia, com os salários, com a defesa dos serviços públicos",
+        "id": "news_0060_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 2060,
+        "end_character": 2261,
+        "text_segment": "E vemos o líder que quer continuar a ser primeiro-ministro no próximo dia 18 de maio a comportar-se como uma barata tonta, sem saber o que fazer, sem saber como comunicar, sem saber o que dizer ao país",
+        "id": "news_0060_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 2449,
+        "end_character": 2573,
+        "text_segment": "Se o país confrontar com uma crise, não é com jerricãs e com a mentalidade dos jerricãs que vão resolver as crises nacionais",
+        "id": "news_0060_c5"
+      }
+    ]
+  },
+  {
+    "document": "news_0065.txt",
+    "news_article_topic": "politics",
+    "publication_time": "14 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 876,
+        "end_character": 1038,
+        "text_segment": "Sabemos que estão cansados de eleições e preocupados com a estabilidade política, que tem de poder juntar-se à estabilidade social, económica e financeira do país",
+        "id": "news_0065_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1040,
+        "end_character": 1189,
+        "text_segment": "Se estão preocupados com a estabilidade política, temos de ser capazes de mostrar às pessoas que o único voto útil para a estabilidade é o voto na AD",
+        "id": "news_0065_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1273,
+        "end_character": 1336,
+        "text_segment": "Quanto mais votos a AD tiver, maior estabilidade há em Portugal",
+        "id": "news_0065_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1338,
+        "end_character": 1438,
+        "text_segment": "Quanto mais votos forem dispersos pelos partidos de oposição, maior instabilidade haverá em Portugal",
+        "id": "news_0065_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 1440,
+        "end_character": 1528,
+        "text_segment": "A estabilidade é a nossa forma de estar e a instabilidade é o modo de vida das oposições",
+        "id": "news_0065_c5"
+      }
+    ]
+  },
+  {
+    "document": "news_0073.txt",
+    "news_article_topic": "politics",
+    "publication_time": "15 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 899,
+        "end_character": 1025,
+        "text_segment": "E dizer àqueles que votam nos partidos mais pequenos, que não conseguem eleger deputados, que façam-nos o favor de votar no PS",
+        "id": "news_0073_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1027,
+        "end_character": 1118,
+        "text_segment": "Dar a vitória, a única que permite derrotar a AD e oferecer ao país um governo progressista",
+        "id": "news_0073_c2"
+      }
+    ]
+  },
+  {
+    "document": "news_0075.txt",
+    "news_article_topic": "politics",
+    "publication_time": "15 mai 2025",
+    "items": [
+      {
+        "claim": true,
+        "begin_character": 839,
+        "end_character": 1027,
+        "text_segment": "Apesar de todas as dificuldades que as oposições sistematicamente procuraram impor, bloqueando e tentando sabotar a ação do Governo no parlamento, conseguimos em 11 meses muitos resultados",
+        "claim_topic": "politics",
+        "claim_span": {
+          "text": "conseguimos em 11 meses muitos resultados",
+          "begin": 986,
+          "end": 1027
+        },
+        "claim_object": {
+          "text": "muitos resultados",
+          "begin": 1010,
+          "end": 1027
+        },
+        "claimer": [
+          {
+            "text": "Pedro Duarte, ministro dos Assuntos Parlamentares e candidato à Câmara do Porto",
+            "begin": 361,
+            "end": 440
+          },
+          {
+            "text": "O líder distrital do PSD/Porto, Pedro Duarte",
+            "begin": 139,
+            "end": 183
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 192,
+          "end": 196
+        },
+        "id": "news_0075_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1411,
+        "end_character": 1544,
+        "text_segment": "Temos uma opção pelo extremismo, pelas soluções radicalizadas, por aqueles que tentaram durante esta campanha puxar o país para baixo",
+        "id": "news_0075_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1546,
+        "end_character": 1602,
+        "text_segment": "Num extremo e no outro [esquerda e direita], há radicais",
+        "id": "news_0075_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1604,
+        "end_character": 1702,
+        "text_segment": "Depois, felizmente há uma segunda alternativa moderada, centrada na luta pela estabilidade do país",
+        "id": "news_0075_c4"
+      }
+    ]
+  },
+  {
+    "document": "news_0080.txt",
+    "news_article_topic": "politics",
+    "publication_time": "16 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 461,
+        "end_character": 573,
+        "text_segment": "Antes que insistam, digo já que falar de presidenciais neste momento é acrescentar ruído e eu não gosto de ruído",
+        "id": "news_0080_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 865,
+        "end_character": 900,
+        "text_segment": "Eu não vou acrescentar nenhum ruído",
+        "id": "news_0080_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 904,
+        "end_character": 1134,
+        "text_segment": "Prefiro focar naquilo que está em cima da mesa e o que está em cima da mesa é saber o que é que os portugueses para a governação do país, para garantir a estabilidade, solidariedade e progresso social que é o que interessa ao país",
+        "id": "news_0080_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1328,
+        "end_character": 1437,
+        "text_segment": "Todos os resultados são importantes a ser ponderados qualquer que seja o quadro e qualquer que seja a decisão",
+        "id": "news_0080_c4"
+      }
+    ]
+  },
+  {
+    "document": "news_0087.txt",
+    "news_article_topic": "politics",
+    "publication_time": "18 mai 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 348,
+        "end_character": 431,
+        "text_segment": "Eu acho que qualquer democrata não pode ficar satisfeito com a noite eleitoral hoje",
+        "id": "news_0087_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 433,
+        "end_character": 506,
+        "text_segment": "Este é um momento particularmente triste para Portugal, para a democracia",
+        "id": "news_0087_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 508,
+        "end_character": 637,
+        "text_segment": "O crescimento dos extremismos, do populismo e da extrema-direita em Portugal é um momento que me deixa particularmente preocupada",
+        "id": "news_0087_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 871,
+        "end_character": 916,
+        "text_segment": "É o momento do PS fazer uma reflexão profunda",
+        "id": "news_0087_c4"
+      }
+    ]
+  },
+  {
+    "document": "news_0090.txt",
+    "news_article_topic": "politics",
+    "publication_time": "19 jan 2025",
+    "items": [
+      {
+        "claim": false,
+        "begin_character": 836,
+        "end_character": 995,
+        "text_segment": "O debate democrático pressupõe o respeito por regras de civilidade mínimas, sob pena de se transformar numa lamentável troca de insultos e de acusações abjetas",
+        "id": "news_0090_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 997,
+        "end_character": 1064,
+        "text_segment": "Aos principais responsáveis políticos exige-se elevação e contenção",
+        "id": "news_0090_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1280,
+        "end_character": 1419,
+        "text_segment": "Parece estar em curso uma campanha devidamente organizada com um único intuito: impedir uma candidatura presidencial do António José Seguro",
+        "id": "news_0090_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1421,
+        "end_character": 1542,
+        "text_segment": "É legítimo não apoiar essa eventual candidatura, é inaceitável o modo que está a ser utilizado para a tentar inviabilizar",
+        "id": "news_0090_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 1713,
+        "end_character": 2010,
+        "text_segment": "Ao longo do seu percurso tem revelado qualidades que fazem falta na nossa vida política: Não troca convicções por oportunidades, antepõe as causas à carreira, coloca o interesse geral acima das ambições grupais, cultiva a independência e rejeita o servilismo próprio de quem visa apenas sobreviver",
+        "id": "news_0090_c5"
+      },
+      {
+        "claim": false,
+        "begin_character": 2091,
+        "end_character": 2282,
+        "text_segment": "a maioria dos militantes e dos simpatizantes do PS têm respeito e admiração pelo António José Seguro e repudiam estes comportamentos impróprios e que atentam contra o melhor da tradição do PS",
+        "id": "news_0090_c6"
+      }
+    ]
+  }
+]
