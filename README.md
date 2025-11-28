@@ -38,6 +38,7 @@ The **ClaimPT** dataset is provided in **JSONL** format, where each line corresp
 | Field | Description |
 |--------|-------------|
 | `document` | News article filename |
+| `news_article_topic` | Topic of the news article |
 | `publication_time` | Date of the news publication |
 | `claim` | Boolean indicating whether the annotation is a claim (`true`) or non-claim (`false`) |
 | `begin_character` | Begin character offset of the annotated text span |
@@ -47,7 +48,8 @@ The **ClaimPT** dataset is provided in **JSONL** format, where each line corresp
 | `claim_span` | Object containing `text`, `begin`, and `end` positions of the claim span |
 | `claim_object` | Text and character offsets of the claim’s object  |
 | `claimer` | Text and offsets of the entity making the claim |
-| `Time` | Temporal expression associated with the claim |
+| `time` | Temporal expression associated with the claim |
+| `id` | Unique identifier for each claim or non-claim |
 
 ---
 
@@ -56,31 +58,76 @@ The **ClaimPT** dataset is provided in **JSONL** format, where each line corresp
 
 ```json
 [
-  {
-    "document": "eleições_008.txt",
-    "publication_time": "04 dez 2023",
-    "claim": true,
-    "begin_character": 501,
-    "end_character": 685,
-    "text_segment": "foi convidado para aderir não pelo lado monárquico, no qual, aliás, não insistiam muito, mas por se empenhar, acima de tudo, na defesa do ambiente e na preservação da qualidade de vida",
-    "claim_topic": "politics",
-    "claim_span": {
-      "text": "foi convidado para aderir não pelo lado monárquico, no qual, aliás, não insistiam muito, mas por se empenhar, acima de tudo, na defesa do ambiente e na preservação da qualidade de vida",
-      "begin": 501,
-      "end": 685
-    },
-    "claim_object": {
-      "text": "por se empenhar, acima de tudo, na defesa do ambiente",
-      "begin": 594,
-      "end": 647
-    },
-    "claimer": {
-      "text": "Pinto Balsemão",
-      "begin": 438,
-      "end": 452
-    },
-    "Time": ""
-  }
+    {
+    "document": "news_0004.txt",
+    "news_article_topic": "politics",
+    "publication_time": "05 mai 2025",
+    "items": [
+      {
+        "claim": true,
+        "begin_character": 664,
+        "end_character": 746,
+        "text_segment": "Eu lembro que Cavaco Silva, 13 dias antes de o BES cair, disse que estava tudo bem",
+        "claim_topic": "politics",
+        "claim_span": {
+          "text": "Cavaco Silva, 13 dias antes de o BES cair, disse que estava tudo bem",
+          "begin": 678,
+          "end": 746
+        },
+        "claim_object": {
+          "text": "disse que estava tudo bem",
+          "begin": 721,
+          "end": 746
+        },
+        "claimer": [
+          {
+            "text": "O líder do PS",
+            "begin": 138,
+            "end": 151
+          },
+          {
+            "text": "Pedro Nuno Santos",
+            "begin": 409,
+            "end": 426
+          }
+        ],
+        "time": {
+          "text": "hoje",
+          "begin": 161,
+          "end": 165
+        },
+        "id": "news_0004_c1"
+      },
+      {
+        "claim": false,
+        "begin_character": 1067,
+        "end_character": 1116,
+        "text_segment": "eu sou genuíno, eu sou aquilo que as pessoas veem",
+        "id": "news_0004_c2"
+      },
+      {
+        "claim": false,
+        "begin_character": 1118,
+        "end_character": 1139,
+        "text_segment": "Luís Montenegro não é",
+        "id": "news_0004_c3"
+      },
+      {
+        "claim": false,
+        "begin_character": 1143,
+        "end_character": 1296,
+        "text_segment": "[Estas acusações são] de um homem que não está de forma séria na política, que está habituado a mentir e a enganar as pessoas e acha que são todos iguais",
+        "id": "news_0004_c4"
+      },
+      {
+        "claim": false,
+        "begin_character": 1298,
+        "end_character": 1353,
+        "text_segment": "Eu não engano ninguém, eu sou genuíno, sou transparente",
+        "id": "news_0004_c5"
+      }
+    ]
+  },
 ]
 ```
 ---
